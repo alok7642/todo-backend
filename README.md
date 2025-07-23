@@ -20,11 +20,12 @@ It is  backend server for the To-Do List App, built with **Node.js**, **Express.
 
 ##  Live API
 
-🔗 [Backend Live on Render](# 📝 To-Do List App – Backend
+[Backend Live on Render]
+#To-Do List App – Backend
 
 This is the backend server for the To-Do List App, built with **Node.js**, **Express.js**, and **MongoDB Atlas**. It handles user authentication, task CRUD operations, and communicates with the frontend via REST APIs.
 
-## 📦 Tech Stack
+##  Tech Stack
 
 - Node.js
 - Express.js
@@ -33,7 +34,7 @@ This is the backend server for the To-Do List App, built with **Node.js**, **Exp
 - bcrypt (Password Hashing)
 - JSON Web Tokens (JWT)
 
-## 🧩 Features
+##  Features
 
 - User registration and login
 - JWT-based authentication
@@ -55,7 +56,7 @@ This is the backend server for the To-Do List App, built with **Node.js**, **Exp
                index.js
                package-lock.json
                package.json
-               
+
 
 
 
